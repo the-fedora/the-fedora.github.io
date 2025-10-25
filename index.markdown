@@ -19,6 +19,9 @@ This is my [GPG](./signature.html) public key.
 #### Jekyll
 This site is made with [Jekyll](./about).
 
+#### Copyright
+All content copyright © the.fedora@gmail.com as of date of publication, unless otherwise noted. All rights reserved.
+
 ---
 
 <div style="width:20%; margin: auto;">
