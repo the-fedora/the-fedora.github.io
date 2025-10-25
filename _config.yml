@@ -23,7 +23,7 @@ author:
   name: Evan (he/him/his)
   email: the.fedora@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Map, stats, cooking, baking, and more.\\
+  Maps, stats, cooking, baking, and more.\\
   Endive Sumptuous Snark.\\
   Stilt Geoid Confabulate.\\
 baseurl: "" # the subpath of your site, e.g. /blog
