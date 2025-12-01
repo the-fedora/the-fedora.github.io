@@ -2,6 +2,7 @@
 title: Toll House Walnut Pie
 style: post
 date: 2025-11-28 19:40:00 -0600
+author: the.fedora
 categories: food recipes
 tags: [food, recipes, pie, chocolate, walnut, egg-substitute, classic, thanksgiving]
 ---

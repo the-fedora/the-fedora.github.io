@@ -2,6 +2,7 @@
 title: "Generalized Tobler Hiking Function"
 style: post
 date: 2025-11-03 19:15:00 -0600
+author: the.fedora
 categories: GIS cost-path hiking-equation
 tags: [GIS,cost path,analysis,hiking equation,Waldo Tobler]
 ---

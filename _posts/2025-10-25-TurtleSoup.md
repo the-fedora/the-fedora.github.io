@@ -2,6 +2,7 @@
 title: '"Turtle" (Split Pea) Soup'
 style: post
 date: 2025-10-25 15:00:00 -0600
+author: the.fedora
 categories: food recipes
 tags: [food, recipes, pork, peas, split peas, pork belly]
 ---
