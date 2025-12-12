@@ -46,3 +46,6 @@ Of these ... candidates, ...
 
 ## Comments and Feedback
 I don't have a comments section on this page at the moment. Feedback can be submitted to the [Bluesky](link to post) post about this blog entry.
+
+## Suplementary Information
+...data sets...
