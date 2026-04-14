@@ -1,5 +1,6 @@
 ---
 title: Low Hydration Pizza Dough
+author: the.fedora
 style: post
 date: 2026-04-13 19:57 -0600
 categories: food recipes
