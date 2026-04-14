@@ -17,13 +17,13 @@ Pizza has long been one of my favorite foods. I am partial to New Haven style, a
 ## Ingredients
 Measurements are for two personal pizzas about 25 cm (10 in) diameter. This will also serve for a medium-sized low-hydration focaccia, or 6-8 pitas. The starter is 100-percent hydration, equal parts flour and water by weight -- so you could sub in that much extra flour and water, and add commercial yeast, if you do not have sourdough starter.
 
-| Ingredient |    g|    % |
-|------------|-----|------|
-| starter    | 100 | 27.8 |
-| flour      | 360 |100   |
-| water      | 200 | 55.6 |
-| oo\*       |  40 | 11.1 |
-| salt       |   8 |  2.22|
+| Ingredient        |    g|    % |
+|-------------------|-----|------|
+| starter           | 100 | 27.8 |
+| flour             | 360 |100   |
+| water             | 200 | 55.6 |
+| olive oil\*       |  40 | 11.1 |
+| salt              |   8 |  2.22|
 
 > \* plus a bit more
 
