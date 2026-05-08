@@ -51,7 +51,7 @@ TVP <- exp(-1 * abs(3.5 * tan(dsm / 360 * 2 * pi) + 0.175)) / exp(-0.175)
 ```
 
 ## Results
-I thought there was potential for differences in implementation to make the output from `WbW` and `R` slightly different, so I did a test using a map I had made of the Santa Elena Canyon area in Big Bend National Park. I originally made the map as part of an exploration of viewshed and terrain to show the absurdity of the new border wall planned for the area¹. Comparing the older TVP I had made with WbW to the TVPR, however, there were no detectable differences to the eye, and differencing the two maps lead to a map of all 0s. No differences up to the limits of accuracy on my computer. It makes the visuals a bit boring, but is a very encouraging result for simply using this methodology as a drop-in replacement for WbW.
+I thought there was potential for differences in implementation to make the output from `WbW` (TVP) and `R` (TVPR) slightly different, so I did a test using a map I had made of the Santa Elena Canyon area in Big Bend National Park. I originally made the map as part of an exploration of viewshed and terrain to show the absurdity of the new border wall planned for the area¹. Comparing the older TVP I had made with `WbW` to the TVPR, however, there were no detectable differences to the eye, and differencing the two maps lead to a map of all 0s. No differences up to the limits of accuracy on my computer. It makes the visuals a bit boring, but is a very encouraging result for simply using this methodology as a drop-in replacement for `WbW`.
 <div style="width:66%; margin:auto;">
 <img src="{{ site.baseurl }}/images/Map 1 Santa Elena Canyon Wall TVP.jpg" alt="Big Bend Santa Elena Canyon TVP"/>
 </div>
