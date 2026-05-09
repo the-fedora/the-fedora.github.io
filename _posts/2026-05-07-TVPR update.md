@@ -66,9 +66,9 @@ I thought there was potential for differences in implementation to make the outp
 
 <hr>
 
-¹<i>The plugin author appears to be re-writing everything in rust, but no info on when this will be finished was found at the time of publication, and no version of WbW is available in QGIS4 at this time.
+¹<i>The plugin author appears to be re-writing everything in rust, but no info on when this will be finished was found at the time of publication, and no version of WbW is available in QGIS4 at this time.</i><br>
 ²<i>Some time after I made that map, the planned wall has been changed to "detection technology only" and new patrol roads, in response to public pushback.</i>
 
 <hr>
 
-<i>NB page updated 2026-05-09 for minor spelling/style corrections, and updates to code</i>
+<i>NB page updated 2026-05-09 for minor spelling/style corrections, and updates to code.</i>
