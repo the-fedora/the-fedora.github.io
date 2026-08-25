@@ -6,6 +6,10 @@ layout: home
 title: the.fedora
 list_title: Blog Posts
 ---
+
+<script data-goatcounter="https://the-fedora.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 ## Front Matter
 Welcome to my little corner of the tubes, where I occasionally post about maps, statistics, cooking, baking, and other interests. Make yourself at home, grab a beer, and find some posts that interest you... or, don't - I'm here for me, not to tell *you* what to do.
 
