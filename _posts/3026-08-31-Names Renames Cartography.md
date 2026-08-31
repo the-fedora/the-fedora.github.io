@@ -1,6 +1,6 @@
 ---
 title: Names, Renames, and Cartography
-date: 3026-08-30 21:00:00 -0600
+date: 3026-08-31 11:00:00 -0600
 style: post
 author: the.fedora
 categories: politics
@@ -8,13 +8,13 @@ tags: [cartography, GIS, politics]
 ---
 //placeholder banner
 
-> ’Tis but thy name that is my enemy:
-> Thou art thyself, though not a Montague,
-> What's Montague? It is not hand nor foot,
-> Nor arm nor face. O be some other name,
-> belonging to a man!
-> What's in a name? That which we call a rose,
-> By any other word would smell as sweet.
+> ’Tis but thy name that is my enemy:\\
+> Thou art thyself, though not a Montague,\\
+> What's Montague? It is not hand nor foot,\
+> Nor arm nor face. O be some other name,\\
+> belonging to a man!\\
+> What's in a name? That which we call a rose,\\
+> By any other word would smell as sweet.\\
 >   \- William Shakespeare, *Romeo and Juliet* (Quarto 2, 1599)
 
 ## Walker Ridge, Gulf of Mexico, Mount Denali, and Lake Ontario

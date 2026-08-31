@@ -10,6 +10,10 @@ list_title: Blog Posts
 <script data-goatcounter="https://the-fedora.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 
+# URGENT
+<marquee><H2>Section 106 Under Attack</H2></marquee>
+The Federal government is proposing major changes to the rules around historic preservation, known as Section 106 for the part of the National Historic Preservation Act that authorizes the regulations. This will have marked negative impacts on historic preservation and archaeology, and generally muck up construction projects with Federal interests as well. Currently, the proposed changes are still being reviewed, and there will be a period for public comment presumably soon. I have written more about this [here]({% post_url 2026-08-01-Section 106 %}), including links to additional perspectives and information.
+
 ## Front Matter
 Welcome to my little corner of the tubes, where I occasionally post about maps, statistics, cooking, baking, and other interests. Make yourself at home, grab a beer, and find some posts that interest you... or, don't - I'm here for me, not to tell *you* what to do.
 
