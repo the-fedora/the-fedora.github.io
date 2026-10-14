@@ -15,7 +15,7 @@ list_title: Blog Posts
 The Federal government is proposing major changes to the rules around historic preservation, known as Section 106 for the part of the National Historic Preservation Act that authorizes the regulations. This will have marked negative impacts on historic preservation and archaeology, and generally muck up construction projects with Federal interests as well. Currently, the proposed changes are still being reviewed, and there will be a period for public comment presumably soon. I have written more about this [here]({% post_url 2026-08-01-Section 106 %}), including links to additional perspectives and information. Separately, a new bill has been proposed in the senate that would have similar impact as the rule changes. I discuss some of the commonalities [here]({% post_url 2026-10-12-Sec 106 bill %}).
 
 ## Front Matter
-Welcome to my little corner of the tubes, where I occasionally post about maps, statistics, cooking, baking, and other interests. Make yourself at home, grab a beer, and find some posts that interest you... or, don't - I'm here for me, not to tell *you* what to do.
+Welcome to my little corner of the tubes, where I occasionally post about archaeology, maps, statistics, cooking, baking, and other interests. Make yourself at home, grab a beer, and find some posts that interest you... or, don't - I'm here for me, not to tell *you* what to do.
 
 ## Odds and Ends
 #### SDF
