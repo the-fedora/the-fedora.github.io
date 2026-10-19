@@ -2,6 +2,9 @@
 title: Resources
 layout: page
 ---
+<script data-goatcounter="https://the-fedora.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 ## Photo scales
 **5 February 2026**
 

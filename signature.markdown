@@ -1,6 +1,9 @@
 ---
 title: GPG signature
 ---
+<script data-goatcounter="https://the-fedora.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 This is my GPG public key.
 
 ```
