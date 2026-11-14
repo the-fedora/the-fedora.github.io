@@ -6,6 +6,10 @@ author: the.fedora
 categories: archaeology
 tags: [archaeology, historic preservation, NHPA, politics, BAAJA, ACHP]
 ---
+*Update 13 Nov 2026*
+*The bill has now been merged with H.R. 2347, a separate law already passed by the House that proposes to remove taxes on damages awarded to sexual abuse survivors. This ties to unpopular "permitting reform" bill to a justice cause many would support. It does not reduce the irreversible harm BAAJA will bring to our cultural, historical, and natural heritage. The bill ought to be withdrawn, or at least the sections that effectively nullify cultural and natural resource protections including Title III should be struck.*
+
+
 ## An Open Letter
 Sens. Heinrich and Whitehouse:
 
